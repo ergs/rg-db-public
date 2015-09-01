@@ -1,1 +1,1 @@
-{ "_id" : { "$oid" : "55d79156103df1259396fa2a" }, "position" : "professor", "name" : "Anthony M. Scopatz", "title" : "Dr." }
+{ "_id" : { "$oid" : "55d79156103df1259396fa2a" }, "position" : "professor", "name" : "Anthony Scopatz", "title" : "Dr." }
