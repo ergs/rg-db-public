@@ -1,1 +1,1 @@
-{ "_id" : { "$oid" : "55d79156103df1259396fa2a" }, "position" : "professor", "name" : "Anthony Scopatz", "title" : "Dr." }
+{ "_id" : "scopatz", "position" : "professor", "name" : "Anthony Scopatz", "title" : "Dr.", "avatar" : "https://avatars1.githubusercontent.com/u/320553?v=3&s=200" }
