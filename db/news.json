@@ -1,1 +1,1 @@
-{ "_id" : { "$oid" : "55e61786103df10b8e51fe36" }, "body" : "Dr. Scopatz joined the department at USC!", "author" : "Anthony M. Scopatz" }
+{ "_id" : { "$oid" : "55e61786103df10b8e51fe36" }, "month" : "August", "author" : "Anthony Scopatz", "day" : 16, "body" : "Dr. Scopatz joined the department at USC!", "year" : 2015 }
