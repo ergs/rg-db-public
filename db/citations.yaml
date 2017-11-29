@@ -1106,6 +1106,17 @@ scopatz2014pyneprog:
   month: '11'
   title: PyNE Progress Report
   year: '2014'
+scopatz2015decay:
+  address: San Antonio, TX, USA
+  author:
+    - Scopatz, Anthony
+    - Bates, Cameron
+    - Wilson, Paul
+  booktitle: Am. Nuc. Soc. Annual Meeting 2015
+  entrytype: inproceedings
+  month: June
+  title: Binary Formulation of Decay Equations
+  year: '2015'
 scopatz2015comphys:
   author:
     - Anthony Scopatz
