@@ -13,23 +13,23 @@ Cyclus:
       name: Anthony Scopatz
       position: Project Lead
     - begin_month: August
-      being_year: 2015
+      begin_year: 2015
       name: Anthony Scopatz
       position: Core Developer
     - begin_month: May
-      being_year: 2012
+      begin_year: 2012
       end_month: June
       end_year: 2015
       name: Robert Flanagan
       position: UI Development
     - begin_month: February
-      being_year: 2016
+      begin_year: 2016
       end_month: June
       end_year: 2017
       name: Robert Flanagan
       position: Core Developer
     - begin_month: July
-      being_year: 2017
+      begin_year: 2017
       name: Robert Flanagan
       position: Community Manager & Core Developer
   website: http://fuelcycle.org/
