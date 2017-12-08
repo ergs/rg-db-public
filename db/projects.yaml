@@ -59,6 +59,19 @@ Rever:
       name: Aaron Meurer
       position: Developer
   website: https://regro.github.io/rever-docs/
+Regolith:
+  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
+  repo: https://github.com/regro/regolith
+  description: |
+    Regolith is a content management system for software & research groups.
+    Regolith creates and manages a database of people, publictaions, projects,
+    proposals & grants, courses, and more!
+  team:
+    - begin_month: August
+      begin_year: 2015
+      name: Anthony Scopatz
+      position: Lead Developer
+  website: https://regro.github.io/regolith-docs/
 doctr:
   description: A tool for automatically deploying docs from Travis CI to GitHub pages.
   repo: https://github.com/drdoctr/doctr
