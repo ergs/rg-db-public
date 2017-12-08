@@ -12,6 +12,63 @@ Cyclus:
       end_year: 2015
       name: Anthony Scopatz
       position: Project Lead
+    - begin_month: August
+      being_year: 2015
+      name: Anthony Scopatz
+      position: Core Developer
+    - begin_month: May
+      being_year: 2012
+      end_month: June
+      end_year: 2015
+      name: Robert Flanagan
+      position: UI Development
+    - begin_month: February
+      being_year: 2016
+      end_month: June
+      end_year: 2017
+      name: Robert Flanagan
+      position: Core Developer
+    - begin_month: July
+      being_year: 2017
+      name: Robert Flanagan
+      position: Community Manager & Core Developer
+  website: http://fuelcycle.org/
+Cycamore: 
+  description: Cyclus Additional Modules
+  logo: http://fuelcycle.org/_static/big_c.png
+  other:
+    - Discrete facilities with discrete material transactions
+    - Supports nuclear fuel cycle facilities
+  repo: https://github.com/cyclus/cycamore/
+  team:
+    - begin_month: June
+      begin_year: 2013
+      name: Anthony Scopatz
+      position: Developer
+  website: http://fuelcycle.org/
+Rickshaw: 
+  description: An automated driver for Cyclus
+  logo: http://www.ergs.sc.edu/rickshaw-docs/_static/rickshaw.svg
+  other:
+    - Automatically generates nuclear fuel cycles for Cyclus
+    - Uses a variety of niches to define fuel cycle facilities
+    - Automates transition scenarios between reactor types
+  repo: https://github.com/cyclus/rickshaw/
+  team:
+    - begin_month: January
+      begin_year: 2017
+      name: Anthony Scopatz
+      position: Developer
+    - begin_month: January
+      begin_year: 2017
+      name: Robert Flanagan
+      position: Developer
+    - begin_month: January
+      begin_year: 2017
+      end_month: August
+      end_year: 2017
+      name: Ryan Hodges
+      position: Developer
   website: http://fuelcycle.org/
 PyNE:
   description: The Nuclear Engineering Toolkit
@@ -27,6 +84,10 @@ PyNE:
       begin_year: 2011
       name: Anthony Scopatz
       position: Lead Developer
+    - begin_month: April
+      begin_year: 2011
+      name: Robert Flanagan
+      position: Developer
   website: http://pyne.io/
 SymPy:
   description: SymPy is a Python library for symbolic mathematics.
