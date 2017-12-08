@@ -30,6 +30,7 @@ PyNE:
   website: http://pyne.io/
 SymPy:
   description: SymPy is a Python library for symbolic mathematics.
+  logo: http://www.sympy.org/media/logo-200x200.png
   repo: https://github.com/sympy/sympy
   team:
     - begin_year: 2009
