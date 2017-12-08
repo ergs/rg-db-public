@@ -36,6 +36,14 @@ SymPy:
       name: Aaron Meurer
       position: Lead Developer
   website: http://www.sympy.org/
+Transmutagen:
+  description: Transmutagen code generates CRAM approximations for solving transmutation problems.
+  repo: https://github.com/ergs/transmutagen
+  team:
+    - begin_year: 2016
+      name: Aaron Meurer
+      position: Lead Developer
+  website: http://www.ergs.sc.edu/transmutagen/
 Rever:
   logo: https://regro.github.io/rever-docs/_static/longship-256.png
   repo: https://github.com/regro/rever
