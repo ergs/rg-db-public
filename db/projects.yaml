@@ -32,15 +32,38 @@ SymPy:
   description: SymPy is a Python library for symbolic mathematics.
   repo: https://github.com/sympy/sympy
   team:
-    - begin_year: '2009'
+    - begin_year: 2009
       name: Aaron Meurer
       position: Lead Developer
   website: http://www.sympy.org/
+Rever:
+  logo: https://regro.github.io/rever-docs/_static/longship-256.png
+  repo: https://github.com/regro/rever
+  description: |
+    Rever is a xonsh-powered, cross-platform software release tool. The goal of
+    rever is to provide sofware projects a standard mechanism for dealing with
+    code released. Rever aims to make the process of releasing a new version of
+    a code base as easy as running a single command.
+  other:
+    - Has a number of stock tools and utilities that you can mix and match to meet
+      your projects needs.
+    - Rever is easily extensible, allowing your project to execute custom release activities.
+    - Allows you to undo release activities, in the event of a mistake!
+  team:
+    - begin_month: May
+      begin_year: 2017
+      name: Anthony Scopatz
+      position: Lead Developer
+    - begin_month: June
+      begin_year: 2017
+      name: Aaron Meurer
+      position: Developer
+  website: https://regro.github.io/rever-docs/
 doctr:
   description: A tool for automatically deploying docs from Travis CI to GitHub pages.
   repo: https://github.com/drdoctr/doctr
   team:
-    - begin_year: '2016'
+    - begin_year: 2016
       name: Aaron Meurer
       position: Developer
   website: https://drdoctr.github.io/doctr/
