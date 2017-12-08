@@ -99,8 +99,8 @@ SymPy:
       position: Lead Developer
   website: http://www.sympy.org/
 Transmutagen:
-  description: Transmutagen code generates CRAM approximations for solving transmutation
-    problems.
+  description: Transmutagen code generates CRAM approximations for solving transmutation problems.
+  logo: https://raw.githubusercontent.com/ergs/transmutagen/master/logo.png
   repo: https://github.com/ergs/transmutagen
   team:
     - begin_year: 2016
@@ -135,9 +135,9 @@ Regolith:
   logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
   repo: https://github.com/regro/regolith
   description: |
-    Regolith is a content management system for software & research groups.
+    Regolith is a content management system for software and research groups.
     Regolith creates and manages a database of people, publictaions, projects,
-    proposals & grants, courses, and more!
+    proposals and grants, courses, and more!
   team:
     - begin_month: August
       begin_year: 2015
