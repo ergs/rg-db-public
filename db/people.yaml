@@ -131,6 +131,7 @@ flanagan:
       name: Bash
   teaching: []
 hodge:
+  active: False
   aka:
     - Hodge
     - Hodge, R
