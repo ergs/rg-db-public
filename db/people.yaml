@@ -12,7 +12,7 @@ asmfakhrul:
   an MS in Analytical Chemistry from University of Montana (USA). He previously
   worked with marine data from the Arctic Ocean to better understand the carbon
   dioxide cycle that impacts global climate change. He is currently working on
-  modeling reprocessing facilities and building cruiser simulation interface 
+  modeling reprocessing facilities and building cruiser simulation interface
   under the supervision of Dr. Anthony Scopatz.'
   education:
     - begin_year: 2013
@@ -42,16 +42,16 @@ asmfakhrul:
       level: Intermediate
       name: MATLAB
     - category: Programming Languages
-      level: Intermediate
+      level: Beginner
       name: Python
     - category: Programming Languages
-      level: Intermediate
+      level: Beginner
       name: bash
     - category: Software
-      level: Intermediate
+      level: Beginner
       name: git
     - category: Programming Languages
-      level: Software
+      level: Beginner
       name: UNIX
 asmeurer:
   aka:
