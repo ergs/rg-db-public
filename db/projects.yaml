@@ -47,7 +47,8 @@ Rever:
   other:
     - Has a number of stock tools and utilities that you can mix and match to meet
       your projects needs.
-    - Rever is easily extensible, allowing your project to execute custom release activities.
+    - Rever is easily extensible, allowing your project to execute custom release
+      activities.
     - Allows you to undo release activities, in the event of a mistake!
   team:
     - begin_month: May
