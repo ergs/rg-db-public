@@ -27,8 +27,8 @@ install:
   - conda install doctr regolith;
 
 script:
-  - git clone https://github.com/ergs/website.git;
-    cd website;
-    regolith build html;
-    cd ..;
-    doctr deploy --deploy-repo ergs/ergs.github.io --deploy-branch-name master --built-docs website/_build/html .;
+  - git clone https://github.com/ergs/website.git
+  - cd website
+  - regolith build html
+  - cd ..
+  - doctr deploy --deploy-repo ergs/ergs.github.io --deploy-branch-name master --built-docs website/_build/html .
