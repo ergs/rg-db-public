@@ -39,6 +39,7 @@ SymPy:
   website: http://www.sympy.org/
 Transmutagen:
   description: Transmutagen code generates CRAM approximations for solving transmutation problems.
+  logo: https://raw.githubusercontent.com/ergs/transmutagen/master/logo.png
   repo: https://github.com/ergs/transmutagen
   team:
     - begin_year: 2016
