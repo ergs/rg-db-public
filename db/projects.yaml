@@ -33,7 +33,7 @@ Cyclus:
       name: Robert Flanagan
       position: Community Manager & Core Developer
   website: http://fuelcycle.org/
-Cycamore: 
+Cycamore:
   description: Cyclus Additional Modules
   logo: http://fuelcycle.org/_static/big_c.png
   other:
@@ -46,7 +46,7 @@ Cycamore:
       name: Anthony Scopatz
       position: Developer
   website: http://fuelcycle.org/
-Rickshaw: 
+Rickshaw:
   description: An automated driver for Cyclus
   logo: http://www.ergs.sc.edu/rickshaw-docs/_static/rickshaw.svg
   other:
@@ -99,7 +99,8 @@ SymPy:
       position: Lead Developer
   website: http://www.sympy.org/
 Transmutagen:
-  description: Transmutagen code generates CRAM approximations for solving transmutation problems.
+  description: Transmutagen code generates CRAM approximations for solving transmutation
+    problems.
   logo: https://raw.githubusercontent.com/ergs/transmutagen/master/logo.png
   repo: https://github.com/ergs/transmutagen
   team:
