@@ -109,19 +109,19 @@ Transmutagen:
       position: Lead Developer
   website: http://www.ergs.sc.edu/transmutagen/
 Rever:
-  logo: https://regro.github.io/rever-docs/_static/longship-256.png
-  repo: https://github.com/regro/rever
   description: |
     Rever is a xonsh-powered, cross-platform software release tool. The goal of
     rever is to provide sofware projects a standard mechanism for dealing with
     code released. Rever aims to make the process of releasing a new version of
     a code base as easy as running a single command.
+  logo: https://regro.github.io/rever-docs/_static/longship-256.png
   other:
     - Has a number of stock tools and utilities that you can mix and match to meet
       your projects needs.
     - Rever is easily extensible, allowing your project to execute custom release
       activities.
     - Allows you to undo release activities, in the event of a mistake!
+  repo: https://github.com/regro/rever
   team:
     - begin_month: May
       begin_year: 2017
@@ -133,12 +133,12 @@ Rever:
       position: Developer
   website: https://regro.github.io/rever-docs/
 Regolith:
-  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
-  repo: https://github.com/regro/regolith
   description: |
     Regolith is a content management system for software and research groups.
     Regolith creates and manages a database of people, publictaions, projects,
     proposals and grants, courses, and more!
+  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
+  repo: https://github.com/regro/regolith
   team:
     - begin_month: August
       begin_year: 2015
