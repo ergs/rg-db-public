@@ -252,7 +252,7 @@ Prasankumar2005:
     - Gossard, a. C.
   doi: 10.1063/1.1923174
   entrytype: article
-  issn: "00036951"
+  issn: '00036951'
   journal: Applied Physics Letters
   link: http://link.aip.org/link/APPLAB/v86/i20/p201107/s1&Agg=doi
   number: '20'
@@ -350,7 +350,7 @@ Scopatz2009:
     - Schneider, Erich
   doi: 10.1016/j.nucengdes.2009.02.022
   entrytype: article
-  issn: "00295493"
+  issn: '00295493'
   journal: Nuclear Engineering and Design
   month: oct
   number: '10'
@@ -1106,6 +1106,14 @@ scopatz2014pyneprog:
   month: '11'
   title: PyNE Progress Report
   year: '2014'
+scopatz2015comphys:
+  author:
+    - Anthony Scopatz
+    - Kathryn Huff
+  entrytype: book
+  publisher: O'Reilly Media, Inc.
+  title: 'Effective Computation in Physics: Field Guide to Research with Python'
+  year: '2015'
 scopatz2015decay:
   address: San Antonio, TX, USA
   author:
@@ -1116,14 +1124,6 @@ scopatz2015decay:
   entrytype: inproceedings
   month: June
   title: Binary Formulation of Decay Equations
-  year: '2015'
-scopatz2015comphys:
-  author:
-    - Anthony Scopatz
-    - Kathryn Huff
-  entrytype: book
-  publisher: O'Reilly Media, Inc.
-  title: 'Effective Computation in Physics: Field Guide to Research with Python'
   year: '2015'
 scopatz2016nonjudgmental:
   author:

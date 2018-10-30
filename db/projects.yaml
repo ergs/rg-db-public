@@ -1,3 +1,29 @@
+Bright:
+  description: Nuclear Fuel Cycle Component Collection
+  logo: http://bright-dev.github.io/_static/BrightIconSmall.png
+  other:
+    - Low-level essential physics models for fuel cycle components in C++
+    - High-level fuel cycle interface in Python
+  repo: http://github.com/bright-dev/bright
+  team:
+    - begin_month: September
+      begin_year: 2006
+      name: Anthony Scopatz
+      position: Lead Developer
+  website: http://bright-dev.github.io/
+Cycamore:
+  description: Cyclus Additional Modules
+  logo: http://fuelcycle.org/_static/big_c.png
+  other:
+    - Discrete facilities with discrete material transactions
+    - Supports nuclear fuel cycle facilities
+  repo: https://github.com/cyclus/cycamore/
+  team:
+    - begin_month: June
+      begin_year: 2013
+      name: Anthony Scopatz
+      position: Developer
+  website: http://fuelcycle.org/
 Cyclus:
   description: Agent-Based Nuclear Fuel Cycle Simulator
   logo: http://fuelcycle.org/_static/big_c.png
@@ -33,43 +59,33 @@ Cyclus:
       name: Robert Flanagan
       position: Community Manager & Core Developer
   website: http://fuelcycle.org/
-Cycamore:
-  description: Cyclus Additional Modules
-  logo: http://fuelcycle.org/_static/big_c.png
+Enthought Tool Suite:
+  description: Tools for building scientific applications
   other:
-    - Discrete facilities with discrete material transactions
-    - Supports nuclear fuel cycle facilities
-  repo: https://github.com/cyclus/cycamore/
+    - Traits, Chaco, Mayavi
+    - CodeTools, BlockCanvas, GraphCanvas
   team:
-    - begin_month: June
-      begin_year: 2013
+    - begin_month: May
+      begin_year: 2010
+      end_month: October
+      end_year: 2011
       name: Anthony Scopatz
       position: Developer
-  website: http://fuelcycle.org/
-Rickshaw:
-  description: An automated driver for Cyclus
-  logo: http://www.ergs.sc.edu/rickshaw-docs/_static/rickshaw.svg
+  website: http://code.enthought.com/
+FLASH:
+  description: Modular, parallel multiphysics simulation code for terrestrial and
+    astrophysical plasmas.
   other:
-    - Automatically generates nuclear fuel cycles for Cyclus
-    - Uses a variety of niches to define fuel cycle facilities
-    - Automates transition scenarios between reactor types
-  repo: https://github.com/cyclus/rickshaw/
+    - 'Features include: Uniform Grid, AMR, Ideal Gas EOS, Multimaterial EOS, Laser
+      Ray Trace.'
   team:
-    - begin_month: January
-      begin_year: 2017
+    - begin_month: Nov
+      begin_year: 2011
+      end_month: May
+      end_year: 2013
       name: Anthony Scopatz
-      position: Developer
-    - begin_month: January
-      begin_year: 2017
-      name: Robert Flanagan
-      position: Developer
-    - begin_month: January
-      begin_year: 2017
-      end_month: August
-      end_year: 2017
-      name: Ryan Hodges
-      position: Developer
-  website: http://fuelcycle.org/
+      position: HEDP Developer
+  website: http://flash.uchicago.edu/site/
 PyNE:
   description: The Nuclear Engineering Toolkit
   logo: http://pyne.io/_static/pyne_icon_small.png
@@ -89,25 +105,32 @@ PyNE:
       name: Robert Flanagan
       position: Developer
   website: http://pyne.io/
-SymPy:
-  description: SymPy is a Python library for symbolic mathematics.
-  logo: http://www.sympy.org/media/logo-200x200.png
-  repo: https://github.com/sympy/sympy
+PyTables:
+  description: Pythonic Wrapper for HDF5
+  logo: https://avatars3.githubusercontent.com/u/828302?v=3&s=200
+  other:
+    - Package for managing hierarchical datasets
+    - Efficiently and easily copes with extremely large amounts of data
+  repo: https://github.com/PyTables/PyTables/
   team:
-    - begin_year: 2009
-      name: Aaron Meurer
+    - begin_month: July
+      begin_year: 2011
+      name: Anthony Scopatz
       position: Lead Developer
-  website: http://www.sympy.org/
-Transmutagen:
-  description: Transmutagen code generates CRAM approximations for solving transmutation
-    problems.
-  logo: https://raw.githubusercontent.com/ergs/transmutagen/master/logo.png
-  repo: https://github.com/ergs/transmutagen
+  website: http://pytables.github.com/
+Regolith:
+  description: |
+    Regolith is a content management system for software and research groups.
+    Regolith creates and manages a database of people, publictaions, projects,
+    proposals and grants, courses, and more!
+  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
+  repo: https://github.com/regro/regolith
   team:
-    - begin_year: 2016
-      name: Aaron Meurer
+    - begin_month: August
+      begin_year: 2015
+      name: Anthony Scopatz
       position: Lead Developer
-  website: http://www.ergs.sc.edu/transmutagen/
+  website: https://regro.github.io/regolith-docs/
 Rever:
   description: |
     Rever is a xonsh-powered, cross-platform software release tool. The goal of
@@ -132,19 +155,60 @@ Rever:
       name: Aaron Meurer
       position: Developer
   website: https://regro.github.io/rever-docs/
-Regolith:
-  description: |
-    Regolith is a content management system for software and research groups.
-    Regolith creates and manages a database of people, publictaions, projects,
-    proposals and grants, courses, and more!
-  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
-  repo: https://github.com/regro/regolith
+Rickshaw:
+  description: An automated driver for Cyclus
+  logo: http://www.ergs.sc.edu/rickshaw-docs/_static/rickshaw.svg
+  other:
+    - Automatically generates nuclear fuel cycles for Cyclus
+    - Uses a variety of niches to define fuel cycle facilities
+    - Automates transition scenarios between reactor types
+  repo: https://github.com/cyclus/rickshaw/
   team:
-    - begin_month: August
-      begin_year: 2015
+    - begin_month: January
+      begin_year: 2017
       name: Anthony Scopatz
+      position: Developer
+    - begin_month: January
+      begin_year: 2017
+      name: Robert Flanagan
+      position: Developer
+    - begin_month: January
+      begin_year: 2017
+      end_month: August
+      end_year: 2017
+      name: Ryan Hodges
+      position: Developer
+  website: http://fuelcycle.org/
+SymPy:
+  description: SymPy is a Python library for symbolic mathematics.
+  logo: http://www.sympy.org/media/logo-200x200.png
+  repo: https://github.com/sympy/sympy
+  team:
+    - begin_year: 2009
+      name: Aaron Meurer
       position: Lead Developer
-  website: https://regro.github.io/regolith-docs/
+  website: http://www.sympy.org/
+Transmutagen:
+  description: Transmutagen code generates CRAM approximations for solving transmutation
+    problems.
+  logo: https://raw.githubusercontent.com/ergs/transmutagen/master/logo.png
+  repo: https://github.com/ergs/transmutagen
+  team:
+    - begin_year: 2016
+      name: Aaron Meurer
+      position: Lead Developer
+  website: http://www.ergs.sc.edu/transmutagen/
+conda:
+  description: Conda is an open source cross-platform package management system.
+  repo: https://github.com/conda/conda
+  team:
+    - begin_month: May
+      begin_year: '2013'
+      end_month: September
+      end_year: '2015'
+      name: Aaron Meurer
+      position: Developer
+  website: https://conda.io/
 doctr:
   description: A tool for automatically deploying docs from Travis CI to GitHub pages.
   repo: https://github.com/drdoctr/doctr
@@ -189,67 +253,3 @@ yt:
       name: Anthony Scopatz
       position: Developer
   website: http://yt-project.org/
-Bright:
-  description: Nuclear Fuel Cycle Component Collection
-  logo: http://bright-dev.github.io/_static/BrightIconSmall.png
-  other:
-    - Low-level essential physics models for fuel cycle components in C++
-    - High-level fuel cycle interface in Python
-  repo: http://github.com/bright-dev/bright
-  team:
-    - begin_month: September
-      begin_year: 2006
-      name: Anthony Scopatz
-      position: Lead Developer
-  website: http://bright-dev.github.io/
-FLASH:
-  description: Modular, parallel multiphysics simulation code for terrestrial and
-    astrophysical plasmas.
-  other:
-    - 'Features include: Uniform Grid, AMR, Ideal Gas EOS, Multimaterial EOS, Laser
-      Ray Trace.'
-  team:
-    - begin_month: Nov
-      begin_year: 2011
-      end_month: May
-      end_year: 2013
-      name: Anthony Scopatz
-      position: HEDP Developer
-  website: http://flash.uchicago.edu/site/
-conda:
-  description: Conda is an open source cross-platform package management system.
-  repo: https://github.com/conda/conda
-  team:
-    - begin_month: May
-      begin_year: '2013'
-      end_month: September
-      end_year: '2015'
-      name: Aaron Meurer
-      position: Developer
-  website: https://conda.io/
-PyTables:
-  description: Pythonic Wrapper for HDF5
-  logo: https://avatars3.githubusercontent.com/u/828302?v=3&s=200
-  other:
-    - Package for managing hierarchical datasets
-    - Efficiently and easily copes with extremely large amounts of data
-  repo: https://github.com/PyTables/PyTables/
-  team:
-    - begin_month: July
-      begin_year: 2011
-      name: Anthony Scopatz
-      position: Lead Developer
-  website: http://pytables.github.com/
-Enthought Tool Suite:
-  description: Tools for building scientific applications
-  other:
-    - Traits, Chaco, Mayavi
-    - CodeTools, BlockCanvas, GraphCanvas
-  team:
-    - begin_month: May
-      begin_year: 2010
-      end_month: October
-      end_year: 2011
-      name: Anthony Scopatz
-      position: Developer
-  website: http://code.enthought.com/
