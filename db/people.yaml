@@ -351,12 +351,23 @@ scopatz:
       location: Santa Barbara, CA
       other:
         - Graduated with a Major in Physics and a Minor in Mathematics
-  email: scopatz@cec.sc.edu, scopatz@gmail.com, (512) 827-8239
+  email: scopatz@quansight.com, scopatz@gmail.com, (512) 827-8239
   employment:
+    - begin_month: April
+      begin_year: 2018
+      location: Philadelphia, PA
+      organization: Quansight, LLC
+      other:
+        - 'Runs the Open Source Direction webinar.'
+        - 'Performs project management duties for consulting projects.'
+        - 'Interfaces with open source developer communities.'
+        - 'Website: https://quansight.com/'
+      position: Senior Community Manager
     - begin_year: 2015
       location: Columbia, SC
       organization: The University of South Carolina
       other:
+        - 'Currently on leave without pay to pursue opportunities in industry.'
         - 'Cyclus: An agent-based, discrete time nuclear fuel cycle simulator.'
         - 'PyNE: The Nuclear Engineering Toolkit.'
         - 'Website: http://www.ergs.sc.edu/'
