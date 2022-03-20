@@ -353,16 +353,29 @@ scopatz:
         - Graduated with a Major in Physics and a Minor in Mathematics
   email: scopatz@quansight.com, scopatz@gmail.com, (512) 827-8239
   employment:
+    - begin_month: Nov
+      begin_year: 2020
+      end_month: Sept
+      end_year: 2021
+      location: Burnsville, MN
+      organization: DTN, Inc.
+      other:
+        - 'Major R&D efforts in weather, agronomics, refined fuels, electricity production, & shipping.'
+        - 'Managed the data science infrastructure team that builds our end-to-end data science platform.'
+        - 'Member of the IP Steering Committee, with a personal focus on Open Source policy.'
+      position: Senior Data Science Architect
     - begin_month: April
       begin_year: 2018
-      location: Philadelphia, PA
+      end_month: October
+      end_year: 2020
+      location: Austin, TX
       organization: Quansight, LLC
       other:
         - 'Runs the Open Source Direction webinar.'
         - 'Performs project management duties for consulting projects.'
         - 'Interfaces with open source developer communities.'
         - 'Website: https://quansight.com/'
-      position: Senior Community Manager
+      position: Director of Packaging
     - begin_year: 2015
       location: Columbia, SC
       organization: The University of South Carolina
@@ -457,6 +470,7 @@ scopatz:
       year: 2006
   membership:
     - begin_year: 2006
+      end_year: 2018
       organization: American Nuclear Society
       position: Member
     - begin_year: 2013
@@ -468,6 +482,7 @@ scopatz:
       position: Founding Treasurer & Board Member
       website: http://numfocus.org
     - begin_year: 2011
+      end_year: 2017
       organization: Software Carpentry
       position: Instructor
     - begin_year: 2009
