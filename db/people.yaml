@@ -351,8 +351,15 @@ scopatz:
       location: Santa Barbara, CA
       other:
         - Graduated with a Major in Physics and a Minor in Mathematics
-  email: scopatz@quansight.com, scopatz@gmail.com, (512) 827-8239
+  email: anthony.scopatz@citadel.com, scopatz@gmail.com, (512) 827-8239
   employment:
+    - begin_month: October
+      begin_year: 2021
+      location: Chicago, IL
+      organization: Citadel
+      other:
+        - 'Develops and deploys custom software packaging systems for both production and research applications.'
+      position: Research Environment Engineer
     - begin_month: Nov
       begin_year: 2020
       end_month: Sept
