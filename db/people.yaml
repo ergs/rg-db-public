@@ -356,7 +356,7 @@ scopatz:
     - begin_month: October
       begin_year: 2021
       location: Chicago, IL
-      organization: Citadel
+      organization: Citadel, LLC
       other:
         - 'Develops and deploys custom software packaging systems for both production and research applications.'
       position: Research Environment Engineer
