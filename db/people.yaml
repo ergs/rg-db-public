@@ -743,3 +743,6 @@ scopatz:
       position: Undergraduate Teaching Assistant/Grader
       year: 2005
   title: Dr.
+  research_focus_areas:
+    - description: Physics
+    - description: Computer Science
