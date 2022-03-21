@@ -1234,7 +1234,7 @@ tzeferacos2014numerical:
   volume: '59'
   year: '2014'
 Virtanen2020:
-  authors:
+  author:
     - Virtanen, Pauli
     - Gommers, Ralf
     - Oliphant, Travis E.
