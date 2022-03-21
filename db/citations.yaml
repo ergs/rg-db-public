@@ -839,6 +839,18 @@ huff2011rapid:
   title: Rapid peer education of a computational nuclear engineering skill suite
   volume: '104'
   year: '2011'
+huff2017:
+  author:
+    - Huff, Kathryn D.
+    - Jin Whan Bae
+    - K. A. Mummah
+    - R. R. Flanagan
+    - Scopatz, A. M.
+  title: Current Status of Predictive Transition Capability in Fuel Cycle Simulation
+  booktitle: Global 2017
+  entrytype: inproceedings
+  pages: '11'
+  year: '2017'
 lamb2013validation:
   author:
     - Lamb, DQ
