@@ -69,7 +69,6 @@ Chee2021:
   year: '2021'
   publisher: Taylor & Francis
   doi: 10.1080/00295450.2020.1753444
-  url: https://doi.org/10.1080/00295450.2020.1753444
 DBLP:journals/corr/ScopatzGCFHMORW15:
   author:
     - Anthony M. Scopatz
@@ -1347,7 +1346,7 @@ Virtanen2020:
     - Upadhyay, Utkarsh
     - Halchenko, Yaroslav O.
     - Vázquez-Baeza, Yoshiki
-  year: 2020
+  year: '2020'
   title: 'SciPy 1.0: fundamental algorithms for scientific computing in Python'
   entrytype: article
   journal:  Nature Methods
