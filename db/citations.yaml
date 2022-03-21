@@ -52,6 +52,24 @@ Certik2015Springer:
   publisher: Springer-Verlag
   title: Symbolic Computing
   year: '2015'
+Chee2021:
+  entrytype: article
+  author:
+    - Gwendolyn J. Chee
+    - Roberto E. Fairhurst Agosta
+    - Jin Whan Bae
+    - Robert R. Flanagan
+    - Anthony M. Scopatz
+    - Kathryn D. Huff
+  title: Demand-Driven Deployment Capabilities in Cyclus, a Fuel Cycle Simulator
+  journal: Nuclear Technology
+  volume: '207'
+  number: '2'
+  pages: '182--203'
+  year: '2021'
+  publisher: Taylor & Francis
+  doi: 10.1080/00295450.2020.1753444
+  url: https://doi.org/10.1080/00295450.2020.1753444
 DBLP:journals/corr/ScopatzGCFHMORW15:
   author:
     - Anthony M. Scopatz
